@@ -1,10 +1,10 @@
 {
-    "name": "cacert-addon",
+    "name": "adrakeca-addon",
     "license": "WTFPL",
-    "author": "Moritz Bartl",
+    "author": "Andrew Drake",
     "version": "0.1",
-    "fullName": "CACert Root Certificate",
-    "homepage": "https://github.com/moba/cacert-firefox-addon",
-    "id": "jid1-C86cNe1crgj9bw",
-    "description": "adds the CACert root to the Firefox trusted root certificate store"
+    "fullName": "adrake.org Root Certificate",
+    "homepage": "https://github.com/drakedevel/adrakeca-firefox-addon",
+    "id": "jid1-n1LJFNnkFnej9g",
+    "description": "adds the adrake.org root to the Firefox trusted root certificate store"
 }
